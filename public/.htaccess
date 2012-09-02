@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^tyktyk.com.ua$ [OR]
+RewriteCond %{HTTP_HOST} ^www.tyktyk.com.ua$
+RewriteRule ^(.*)$ "http\:\/\/tyktyk\.com\.ua\:12071\/$1" [R=301,L]
+

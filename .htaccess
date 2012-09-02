@@ -1,0 +1,7 @@
+RewriteRule ^$ index.html [QSA] 
+RewriteRule ^([^.]+)$ $1.html [QSA] 
+RewriteCond %{REQUEST_FILENAME} !-f #RewriteRule ^(.*)$ dispatch.cgi [QSA,L] 
+RewriteRule ^(.*)$ dispatch.fcgi [QSA,L] 
+
+AddDefaultCharset UTF-8
+

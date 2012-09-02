@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  database: tyktykco_main
+  username: tyktykco_root
+  password: cardcycle
+
+test:
+  adapter: mysql
+  encoding: utf8
+  database: tyktykco_main
+  username: tyktykco_root
+  password: cardcycle
+
+production:
+  adapter: mysql
+  encoding: utf8
+  database: tyktykco_main
+  username: tyktykco_root
+  password: cardcycle

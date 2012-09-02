@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rubydoorsite/!svn/ver/77/Project/TukTukStoreNew/db/migrate
+END
+20101110090429_create_abouts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rubydoorsite/!svn/ver/66/Project/TukTukStoreNew/db/migrate/20101110090429_create_abouts.rb
+END
+20101027212522_create_articles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rubydoorsite/!svn/ver/62/Project/TukTukStoreNew/db/migrate/20101027212522_create_articles.rb
+END
+20101110090341_create_contacts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rubydoorsite/!svn/ver/66/Project/TukTukStoreNew/db/migrate/20101110090341_create_contacts.rb
+END
+20100923203921_create_typus_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rubydoorsite/!svn/ver/27/Project/TukTukStoreNew/db/migrate/20100923203921_create_typus_users.rb
+END
+20101002001114_add_test_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rubydoorsite/!svn/ver/80/Project/TukTukStoreNew/db/migrate/20101002001114_add_test_data.rb
+END
+20100923204312_create_companies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rubydoorsite/!svn/ver/29/Project/TukTukStoreNew/db/migrate/20100923204312_create_companies.rb
+END
+20100923204802_create_collections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rubydoorsite/!svn/ver/29/Project/TukTukStoreNew/db/migrate/20100923204802_create_collections.rb
+END
+20101001093351_create_ckeditor_assets.rb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rubydoorsite/!svn/ver/32/Project/TukTukStoreNew/db/migrate/20101001093351_create_ckeditor_assets.rb.rb
+END
+20101118153756_add_data_to_dict_door_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rubydoorsite/!svn/ver/75/Project/TukTukStoreNew/db/migrate/20101118153756_add_data_to_dict_door_types.rb
+END
+20101001203813_add_attachments_photo_to_door.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rubydoorsite/!svn/ver/34/Project/TukTukStoreNew/db/migrate/20101001203813_add_attachments_photo_to_door.rb
+END
+20101110114115_add_contact_about_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rubydoorsite/!svn/ver/66/Project/TukTukStoreNew/db/migrate/20101110114115_add_contact_about_data.rb
+END
+20101110090238_create_papers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rubydoorsite/!svn/ver/66/Project/TukTukStoreNew/db/migrate/20101110090238_create_papers.rb
+END
+20101001212840_delete_image_url.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rubydoorsite/!svn/ver/34/Project/TukTukStoreNew/db/migrate/20101001212840_delete_image_url.rb
+END
+20101118153144_create_dict_door_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rubydoorsite/!svn/ver/75/Project/TukTukStoreNew/db/migrate/20101118153144_create_dict_door_types.rb
+END
+20100923205138_create_doors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rubydoorsite/!svn/ver/74/Project/TukTukStoreNew/db/migrate/20100923205138_create_doors.rb
+END

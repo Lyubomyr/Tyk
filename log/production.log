@@ -1,0 +1,73 @@
+
+
+Processing ApplicationController#index (for 194.44.13.114 at 2010-11-28 09:19:12) [GET]
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+  
+
+Rendering /home/tyktykco/tyktyk/public/404.html (404 Not Found)
+
+
+Processing ApplicationController#index (for 194.44.13.114 at 2010-11-28 09:19:58) [GET]
+
+ActionController::RoutingError (No route matches "/admin/about" with {:method=>:get}):
+  
+
+Rendering /home/tyktykco/tyktyk/public/404.html (404 Not Found)
+
+
+Processing Admin::AboutsController#index (for 194.44.13.114 at 2010-11-28 09:20:02) [GET]
+  Parameters: {"action"=>"index", "controller"=>"admin/abouts"}
+
+NameError (undefined local variable or method `admin_dashboard_path' for #<Admin::AboutsController:0x2b7b5dfc1648>):
+  
+
+Rendering /home/tyktykco/tyktyk/public/500.html (500 Internal Server Error)
+
+
+Processing ApplicationController#index (for 194.44.13.114 at 2010-11-28 09:33:08) [GET]
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+  
+
+Rendering /home/tyktykco/tyktyk/public/404.html (404 Not Found)
+
+
+Processing StoreController#index (for 194.44.13.114 at 2010-11-28 09:33:23) [GET]
+Rendering template within layouts/application
+Rendering store/index
+Completed in 132ms (View: 131, DB: 0) | 200 OK [http://tyktyk.com.ua/store]
+
+
+Processing StoreController#index (for 194.44.13.114 at 2010-11-28 10:02:10) [GET]
+Rendering template within layouts/application
+Rendering store/index
+Completed in 183ms (View: 75, DB: 106) | 200 OK [http://tyktyk.com.ua/store]
+
+
+Processing StoreController#index (for 194.44.13.114 at 2010-11-28 10:02:36) [GET]
+Rendering template within layouts/application
+Rendering store/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://tyktyk.com.ua/]
+
+
+Processing ApplicationController#index (for 194.44.13.114 at 2010-11-28 10:03:17) [GET]
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+  config/mongrel.rb:62:in `dispatch_cgi'
+
+Rendering /home/tyktykco/tyktyk/public/404.html (404 Not Found)
+
+
+Processing StoreController#index (for 194.44.13.114 at 2010-11-28 10:10:11) [GET]
+Rendering template within layouts/application
+Rendering store/index
+Completed in 14ms (View: 11, DB: 1) | 200 OK [http://tyktyk.com.ua/]
+
+
+Processing ApplicationController#index (for 194.44.13.114 at 2010-11-28 10:10:16) [GET]
+
+ActionController::RoutingError (No route matches "/admin" with {:method=>:get}):
+  config/mongrel.rb:62:in `dispatch_cgi'
+
+Rendering /home/tyktykco/tyktyk/public/404.html (404 Not Found)
